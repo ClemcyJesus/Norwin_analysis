@@ -6,7 +6,7 @@ The analysis not only identifies key performance drivers but also highlights opp
 
 
 
-📂 Dataset Description
+### Dataset Description ###
 
 The dataset used in this project includes multiple dimensions of customer and sales activity.
 
@@ -20,7 +20,7 @@ Key Features:
 
 
 
-🎯 Objectives of the Analysis
+### Objectives of the Analysis ###
 The analysis was designed to answer the following business questions:
 Customer Behavior
 
